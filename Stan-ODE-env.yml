@@ -1,0 +1,10 @@
+name: Stan
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9.10
+  - pip>=22.0.4
+  - jupyter>=1.0.0
+  - cmdstan>=2.29.0
+  - pystan>=3.2.0
+  - r-rstan>=2.21.3
