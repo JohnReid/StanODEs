@@ -7,4 +7,5 @@ dependencies:
   - jupyter>=1.0.0
   - cmdstan>=2.29.0
   - pystan>=3.2.0
+  - cmdstanpy>=1.0.1
   - r-rstan>=2.21.3
